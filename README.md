@@ -14,3 +14,7 @@ market segment & forecast the sales of the
 products for the next 6 months, so that we
 have a proper estimate and can plan
 inventory and business processes accordingly.
+
+## Python Notebook
+Project notebook can be downloaded from here
+https://drive.google.com/file/d/15-FR4kd76aMuJ9rU3RMAkXH90IipAcsQ/view?usp=sharing
